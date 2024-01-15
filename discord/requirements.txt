@@ -1,0 +1,7 @@
+flask[async]
+selenium
+python-dotenv
+discord.py
+nest_asyncio
+requests
+beautifulsoup4
